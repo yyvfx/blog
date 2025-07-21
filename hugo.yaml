@@ -43,31 +43,31 @@ params:
   gitRepo: ""
   fingerprint: ""
   dateFormat: 2006-01-02
-  title: Personal site
-  description: This is personal site
+  title: Personal blog
+  description: This is personal blog
   images:
     - /logo.png
   author:
     name: yyvf
     email: yyvf@pm.me
-    link: ""
+    link: yyvf.xyz
   header:
     desktopMode: fixed
     mobileMode: auto
     title:
-      logo: "yyvf"
-      name: ""
-      pre: ""
-      post: ""
+      logo:
+      name: Personal blog
+      pre:
+      post:
       typeit: false
   footer:
     enable: true
-    custom: ""
+    custom:
     hugo: true
     copyright: true
     author: true
-    since: 2019
-    icp: ""
+    since: 2025
+    icp:
     license: <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>
   section:
     paginate: 20
@@ -78,7 +78,7 @@ params:
     dateFormat: 01-02
     rss: 10
   app:
-    title: My cool site
+    title: Personal blog
     noFavicon: false
     svgFavicon: ""
     themeColor: "#ffffff"
@@ -193,7 +193,7 @@ params:
     HuggingFace: ""
     Threads: ""
     Phone: ""
-    Email: xxxx@xxxx.com
+    Email: yyvf@pm.me
     RSS: true
   page:
     hiddenFromHomePage: false
