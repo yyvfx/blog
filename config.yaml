@@ -1,6 +1,6 @@
 baseURL: "https://yyvf.xyz"
 title: Home
-theme: PaperMod
+theme: ./PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
