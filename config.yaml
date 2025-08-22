@@ -80,8 +80,8 @@ params:
 
   socialIcons:
     - name: github
-      title: View Source on Github
-      url: "https://github.com/yyvfx/blog"
+      title: Github
+      url: "https://github.com/yyvfx"
     - name: email
       title: Email
       url: mailto:yyvf@pm.me
