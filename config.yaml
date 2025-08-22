@@ -1,5 +1,5 @@
 baseURL: "https://yyvf.xyz"
-title: Home
+title: yyvf's blog
 theme: ./PaperMod
 
 enableInlineShortcodes: true
@@ -71,7 +71,7 @@ params:
     enabled: false
 
   homeInfoParams:
-    Title: "yyvf's blog"
+    Title: "Personal blog"
     Content: >
       I welcome you to this blog, which aims at relieving my brain from the
       hard task of remembering all sorts of weird stuffs (thus, don't expect me
@@ -103,9 +103,9 @@ params:
 
   assets:
     disableHLJS: true
-    # favicon: "/assets/favicon-16x16.ico"
-    # favicon16x16: "/assets/favicon-16x16.ico"
-    # favicon32x32: "/assets/favicon-32x32.ico"
+    # favicon: "/favicon.ico"
+    # favicon16x16: "/favicon-16x16.png"
+    # favicon32x32: "/favicon-32x32.png"
     # apple_touch_icon: "<link / abs url>"
     # safari_pinned_tab: "<link / abs url>"
 
