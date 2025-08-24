@@ -1,8 +1,8 @@
 ---
 author: yyvf
 data: "2025-08-22"
-title: How to configure pass in a new system
-summary: I'll try to show how to configure pass/gopass in a new system
+title: bootstrap gopass
+summary: How to configure gopass in a new system
 tags: [gopass, pass]
 ---
 
